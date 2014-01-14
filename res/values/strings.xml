@@ -17,11 +17,11 @@
  -->
 
 <resources>
-    <string name="app_name">template</string>
-    <string name="theme_name">template</string>
-    <string name="style_appearance_name">template</string>
-    <string name="author">elelinux</string>
-    <string name="copyright">Elelinux</string>
+    <string name="app_name">AOKP KitKat White</string>
+    <string name="theme_name">AOKP KitKat White</string>
+    <string name="style_appearance_name">kitkat_white</string>
+    <string name="author">The Android Open Kang Project</string>
+    <string name="copyright">Copyright (c) 2014, The Android Open Kang Project</string>
     <string name="capital_on">" "</string>
     <string name="capital_off">" "</string>
 </resources>

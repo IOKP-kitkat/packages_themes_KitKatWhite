@@ -19,11 +19,11 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.elelinux.theme.template"
+    package="com.aokp.theme.kitkat_white"
     android:hasCode="false"
     android:versionCode="1" android:versionName="1.0">
 
-    <application name="template" android:hasCode="false" android:icon="@drawable/icon" android:label="template">
+    <application name="kitkat_white" android:hasCode="false" android:icon="@mipmap/ic_launcher" android:label="kitkat_white">
     </application>
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19" />
@@ -32,13 +32,12 @@
     <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme
-        pluto:themeId="template"
-        pluto:styleId="@style/template"
+        pluto:themeId="kitkat_white"
+        pluto:styleId="@style/kitkat_white"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"
         pluto:copyright="@string/copyright"
-        pluto:wallpaperImage="@drawable/homescreen"
         pluto:styleName="@string/style_appearance_name">
 
         <!-- Currently this is not being read, but instead the redirections are
