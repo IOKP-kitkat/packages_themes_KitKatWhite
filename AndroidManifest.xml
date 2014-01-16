@@ -19,11 +19,11 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.aokp.theme.kitkat_white"
+    package="com.aokp.theme.kitkatwhite"
     android:hasCode="false"
     android:versionCode="1" android:versionName="1.0">
 
-    <application name="kitkat_white" android:hasCode="false" android:icon="@mipmap/ic_launcher" android:label="kitkat_white">
+    <application name="@string/theme_name" android:hasCode="false" android:icon="@mipmap/ic_launcher" android:label="@string/theme_name">
     </application>
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19" />
